@@ -1,0 +1,181 @@
+  body.Home {
+	background: url(Hawaii.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+	color: white;
+	font-style: Oblique;
+	font-weight: Bold;
+	position: relative;
+ }
+ 
+ body.Information {
+	background: url(Hawaii3.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+	color: white;
+	font-style: Oblique;
+	font-weight: Bold;
+	position: relative;
+ }
+ 
+  body.Confirm {
+	background: url(Hawaii2.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+	color: white;
+	font-style: Oblique;
+	font-weight: Bold;
+	position: relative;
+ }
+ 
+   body.Cancel {
+	background: url(Hawaii4.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+	color: white;
+	font-style: Oblique;
+	font-weight: Bold;
+	position: relative;
+ }
+ 
+    body.Update {
+	background: url(Hawaii5.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+	color: white;
+	font-style: Oblique;
+	font-weight: Bold;
+	position: relative;
+ }
+ 
+  body.About {
+	background: url(Hawaii7.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  	color: Black;
+	font-style: Oblique;
+	font-weight: Bold;
+	position: relative;
+ }
+ 
+ div.Nav {
+	font-style: oblique;
+	color: white;
+	position: absolute;
+    left: 0px;
+	margin-top: 1%;
+	width: 100px;
+	height: 200px;
+	background-color: rgba(0,0,0,0.6);
+	position: fixed;
+}
+ 
+ div.AboutPage {
+	background: rgba(256,256,256,0.5);
+	color: black;
+	width: 70%;
+	margin-left: 15%;
+	font-style: Oblique;
+	font-weight: Bold;
+	font-size: 20px;
+ }
+  
+ div.Info {
+	background: rgba(0,0,0,0.5);
+	width: 280px;
+	margin-left: 40%;
+	margin-bottom: 40%;
+	color: white;
+	font-style: Oblique;
+	font-weight: Bold;
+	position: relative;
+ }
+ 
+  div.UpdatePage {
+	background: rgba(0,0,0,0.5);
+	width: 400px;
+	margin-left: 35%;
+	margin-bottom: 40%;
+	color: white;
+	font-style: Oblique;
+	font-weight: Bold;
+	position: relative;
+ }
+ 
+   div.CancelPage {
+	background: rgba(0,0,0,0.5);
+	width: 400px;
+	margin-left: 35%;
+	margin-bottom: 40%;
+	color: white;
+	font-style: Oblique;
+	font-weight: Bold;
+	position: relative;
+ }
+ 
+   div.cancel {
+	background: rgba(0,0,0,0.5);
+	width: 500px;
+	margin-left: 32.5%;
+	margin-bottom: 40%;
+	color: white;
+	font-style: Oblique;
+	font-weight: Bold;
+	position: relative;
+ }
+ 
+ div.Circle a{
+	background-color: rgba(0,0,0,0.6);
+    border-radius: 12px; /* one half of ( (border * 2) + height + padding ) */
+    box-shadow: 1px 1px 1px black;
+    color: white;
+    font: bold 15px/13px Helvetica, Verdana, Tahoma;
+    height: 20px; 
+    min-width: 20px;
+    padding: 10px 10px 0 10px;
+    text-align: center;
+}
+ 
+a {
+	color: white;
+}
+
+.UpdateH1 {
+	color: Black;
+}
+
+h1 {
+	font-weight: Bold;
+}
+
+table {
+	background-color: #202020;
+	color: white;
+}
+
+.TableHeaders {
+	font-weight: Bold;
+	text-decoration: underline;
+}
+
+div.confirm {
+	background-color: #202020;
+}
+
+div.update {
+	background-color: rgba(0,0,0,0.6);
+	width: 1000px;
+	margin-left: 15%;
+}
